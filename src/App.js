@@ -20,7 +20,7 @@ function App() {
   var sdkKey = "94QZmFkRMuRdfQT3u8eqwcOLLHouz5HaMWGd";
   var meetingNumber = query.get("meetingNumber");
   var role = 0;
-  var leaveUrl = "http://localhost:3000";
+  var leaveUrl = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
   var userName = "React";
   var userEmail = "";
   var passWord = query.get("pwd");
