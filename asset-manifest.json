@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/meetingsdk-sample-react/static/css/main.737fedf5.chunk.css",
-    "main.js": "/meetingsdk-sample-react/static/js/main.bc77f57a.chunk.js",
-    "main.js.map": "/meetingsdk-sample-react/static/js/main.bc77f57a.chunk.js.map",
+    "main.js": "/meetingsdk-sample-react/static/js/main.90a16001.chunk.js",
+    "main.js.map": "/meetingsdk-sample-react/static/js/main.90a16001.chunk.js.map",
     "runtime-main.js": "/meetingsdk-sample-react/static/js/runtime-main.85d5c597.js",
     "runtime-main.js.map": "/meetingsdk-sample-react/static/js/runtime-main.85d5c597.js.map",
     "static/js/2.41372425.chunk.js": "/meetingsdk-sample-react/static/js/2.41372425.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.85d5c597.js",
     "static/js/2.41372425.chunk.js",
     "static/css/main.737fedf5.chunk.css",
-    "static/js/main.bc77f57a.chunk.js"
+    "static/js/main.90a16001.chunk.js"
   ]
 }
